@@ -1,0 +1,9 @@
+{
+  "name": "Motor Hisab Book",
+  "short_name": "Motor Hisab",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3f6fc",
+  "theme_color": "#3569e8",
+  "description": "Simple daily motor work accounts"
+}
